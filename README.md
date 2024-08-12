@@ -9,3 +9,4 @@ Welcome to the Live Crypto Rate App! This Django application allows users to fet
 - 💡 Simple and user-friendly interface.
 
 
+https://august12.pythonanywhere.com/
